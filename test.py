@@ -1,0 +1,5 @@
+print("Hello")
+pirnt("Welcome")
+print("How Are You?)
+print("Today is Monday")
+print("This is Google Cloud")
